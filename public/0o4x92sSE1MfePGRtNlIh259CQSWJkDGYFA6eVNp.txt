@@ -1,0 +1,4 @@
+Name;Age;Sex
+Ivanov I.I.;22;m
+Vasulev R.R.;10;m
+Avgen R.R.;14;w
